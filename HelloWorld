@@ -1,0 +1,9 @@
+Hello Word file in programming language java.
+
+
+public class HelloWorldProgram {
+
+   public static void main(String []args) {
+      System.out.println("Hello World"); // prints Hello World
+   }
+}
